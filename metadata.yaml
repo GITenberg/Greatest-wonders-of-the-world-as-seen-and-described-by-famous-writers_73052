@@ -1,0 +1,58 @@
+_repo: Greatest-wonders-of-the-world-as-seen-and-described-by-famous-writers_73052
+_version: 0.0.1
+alternative_title: The greatest natural wonders of the world
+creator:
+  editor:
+    agent_name: Singleton, Esther
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '7412'
+    url: http://www.gutenberg.org/2009/agents/7412
+description: ''
+gutenberg_issued: '2024-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73052'
+  lccn: '06040577'
+language: en
+pgterms:marc904: https://archive.org/details/greatestwonderso00sing/mode/2up
+pgterms:marc905: 20210825043410singleton
+pgterms:marc906: '1906'
+production_note: Brian Coe, Hannah Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: '  $aNew York :$bThe Christian Herald, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Curiosities and wonders'
+- !lcsh 'Landscapes'
+- !lcc 'G'
+- GITenberg
+tableOfContents: The Blue Grotto of Capri, by Alexandre Dumas -- Mount Blanc and Chamouni,
+  by Percy Bysshe Shelley -- The Dead Sea, by Pierre Loti -- Mount Vesuvius, by Charles
+  Dickens -- The falls of the Rhine, by Victor Hugo -- In Arctic and Antarctic Seas,
+  by Lord Dufferin and W. G. Burn Murdock -- The Desert of Sahara, by Eugene Fromentin
+  -- Fingal's Cave, by Sir Walter Scott and John Keats -- In the Himalayas, by G.
+  W. Steevens -- Niagara Falls, by Anthony Trollope and Charles Dickens -- Fuji-San,
+  by Sir Edwin Arnold -- The Cedars of Lebanon, by Alphonse de Lamartine -- The Giant's
+  Causeway, by William Makepeace Thackery -- The Great Glacier of the Selkirks, by
+  Douglas Sladen -- Mauna Loa, by Lady Brassey -- Trollhätta, by Hans Christian Anderson
+  -- The Grand Canyon of Colorado, by C. F. Gordon-Cumming -- The Rock of Gibraltar,
+  by Augustus J. C. Hare -- Thingvalla, by Lord Dufferin -- Land's End and Logan Rock,
+  by John Ayrton Paris -- Mount Hekla, by Sir Richard F. Burton -- Victoria Falls,
+  by David Livingstone -- The Dragon-tree of Orotava, by Alexander von Humboldt --
+  Mount Shasta, by J. W. Boddam-Wheatham -- The Lagoons of Venice, by John Ruskin
+  -- The Cataracts of the Nile, by Amelia B. Edwards -- In the Alps, by Théophile
+  Gautier -- The Vale of Kashmir, by Andrew Wilson -- The Lake of Pitch, by Charles
+  Kingsley -- The Lachine Rapids, by Douglas Sladen -- Lake Rotorua, by H. R. Haweis
+  -- The Big Trees of California, by C. F. Gordon-Cumming -- Gersoppa Falls, by W.
+  M. Yool -- Etna, by Alexandre Dumas -- Pike's Peak and the Garden of the Gods, by
+  Iza Duffus Hardy -- The Great Geysir of Iceland, by Sir Richard F. Burton -- The
+  Rapids of the Danube, by William Beattie -- The Mammoth Cave, by Bayard Taylor --
+  Stromboli, by Alexandre Dumas -- The High Woods, by Charles Kingsley -- The Yo-semité
+  Valley, by C. F. Gordon-Cumming -- The Golden Horn, by Alphonse de Lamartine --
+  The Yellowstone, by Rudyard Kipling.
+title: Greatest wonders of the world, as seen and described by famous writers
+url: http://www.gutenberg.org/ebooks/73052
