@@ -1,6 +1,9 @@
 _repo: Greatest-wonders-of-the-world-as-seen-and-described-by-famous-writers_73052
 _version: 0.1.0
 alternative_title: The greatest natural wonders of the world
+covers:
+- cover_type: archival
+  image_path: 73052-h/images/cover.jpg
 creator:
   editor:
     agent_name: Singleton, Esther
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '7412'
     url: http://www.gutenberg.org/2009/agents/7412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73052#Greatest-wonders-of-the-world-as-seen-and-described-by-famous-writers
 gutenberg_issued: '2024-02-27'
 gutenberg_type: Text
 identifiers:
